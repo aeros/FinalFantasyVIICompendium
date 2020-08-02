@@ -8,7 +8,7 @@ Seminole State College group project for a Final Fantasy VII Compendium. This in
 # Requirements
 
 * Python 3.7+  
-  *To install required python packages, use `python -m pip install --user -r requirements.txt` in root project directory (preferably, within a virtual environment like pipenv or conda).   
+  * To install required python packages, use `python -m pip install --user -r requirements.txt` in root project directory (preferably, within a virtual environment like pipenv or conda).   
 * MySQL 5.7+  
 * Android Studio 3.0+  
 
