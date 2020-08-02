@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final Fantasy Compendium</string>
+    <string name="title">Final Fantasy Compendium</string>
+    <string name="select_category">Select A&#13;&#10; Category:</string>
+    <string name="weapons">Weapons</string>
+    <string name="armors">Armors</string>
+    <string name="items">Items</string>
+    <string name="search_Search">Enter Search Parameters:</string>
+    <string name="search_Name">Name (optional)</string>
+    <string name="search_Statistics">Statistics</string>
+    <string name="search_Attr1">Attr 1</string>
+    <string name="search_Attr2">Attr 2</string>
+    <string name="search_Attr3">Attr 3</string>
+    <string name="search_Attr4">Attr 4</string>
+    <string name="search_ellipse">...</string>
+    <string name="greaterthan">>=</string>
+    <string name="lessthan">&lt;=</string>
+    <string name="searchbutton">Search</string>
+    <string name="results_Name">Name:&#160;</string>
+    <string name="results_Category">Category:&#160;</string>
+
+</resources>

@@ -1,0 +1,128 @@
+id,character,name,attack,accuracy,magic,cost
+0,Cloud,Buster Sword,18,96,2,0
+1,Cloud,Mythril Saber,23,98,4,1000
+2,Cloud,Hardedge,32,98,6,1500
+3,Cloud,Butterfly Edge,39,100,8,2800
+4,Cloud,Enhance Sword,43,107,16,12000
+5,Cloud,Organics,62,103,15,12000
+6,Cloud,Crystal Sword,76,105,19,18000
+7,Cloud,Force Stealer,36,100,7,2200
+8,Cloud,Rune Blade,40,108,9,3800
+9,Cloud,Murasame,51,100,12,6500
+10,Cloud,Nail Bat,70,100,0,2800
+11,Cloud,Yoshiyuki,56,100,9,4200
+12,Cloud,Apocalypse,88,110,43,2
+13,Cloud,Heaven's Cloud,93,100,31,2
+14,Cloud,Ragnarok,97,105,43,2
+15,Cloud,Ultima Weapon,100,110,51,2
+16,Barret,Gatling Gun,14,97,0,0
+17,Barret,Assault Gun,17,98,1,350
+18,Barret,Cannon Ball,23,98,2,475
+19,Barret,Atomic Scissors,32,99,4,1400
+20,Barret,Heavy Vulcan,39,100,8,2700
+21,Barret,Chainsaw,52,100,10,6300
+22,Barret,Microlaser,63,101,13,12000
+23,Barret,AM Cannon,77,103,16,18000
+24,Barret,W Machine Gun,30,100,3,2000
+25,Barret,Drill Arm,37,97,0,3300
+26,Barret,Solid Bazooka,61,100,15,16000
+27,Barret,Rocket Punch,62,110,0,3200
+28,Barret,Enemy Launcher,35,100,7,3300
+29,Barret,Pile Banger,90,80,0,2
+30,Barret,Max Ray,97,98,30,2
+31,Barret,Missing Score,98,108,49,2
+32,Tifa,Leather Glove,13,99,0,120
+33,Tifa,Metal Knuckle,18,102,1,320
+34,Tifa,Mythril Claw,24,106,3,750
+35,Tifa,Grand Glove,31,110,6,1200
+36,Tifa,Tiger Fang,38,110,8,2500
+37,Tifa,Diamond Knuckle,51,112,10,5800
+38,Tifa,Dragon Claw,62,114,13,10000
+39,Tifa,Crystal Glove,75,115,16,16000
+40,Tifa,Motor Drive,27,106,6,1800
+41,Tifa,Platinum Fist,30,108,7,2700
+42,Tifa,Kaiser Knuckle,44,110,13,15000
+43,Tifa,Work Glove,68,114,0,2200
+44,Tifa,Powersoul,28,106,7,4200
+45,Tifa,Master Fist,38,108,0,2
+46,Tifa,God's Hand,86,255,34,2
+47,Tifa,Premium Heart,99,112,32,2
+48,Aeris,Guard Stick,12,99,2,140
+49,Aeris,Mythril Rod,16,100,3,370
+50,Aeris,Full Metal Staff,22,100,4,800
+51,Aeris,Striking Staff,32,100,7,1300
+52,Aeris,Prism Staff,40,105,10,2600
+53,Aeris,Aurora Rod,51,110,14,5800
+54,Aeris,Wizard Staff,28,100,6,1800
+55,Aeris,Wizer Staff,33,100,7,3200
+56,Aeris,Fairy Tale,37,103,8,2500
+57,Aeris,Umbrella,58,118,10,3800
+58,Aeris,Princess Guard,52,111,22,7500
+59,Red XIII,Mythril Clip,24,100,6,800
+60,Red XIII,Diamond Pin,33,102,8,1300
+61,Red XIII,Silver Barrette,40,110,10,3500
+62,Red XIII,Gold Barrette,50,104,13,6000
+63,Red XIII,Adaman Clip,60,106,15,11000
+64,Red XIII,Crystal Comb,76,108,20,17000
+65,Red XIII,Magic Comb,37,100,4,2000
+66,Red XIII,Plus Barrette,39,104,12,3500
+67,Red XIII,Centclip,58,108,22,14000
+68,Red XIII,Hairpin,57,120,15,3500
+69,Red XIII,Seraph Comb,68,110,14,8000
+70,Red XIII,Behemoth Horn,91,75,26,2
+71,Red XIII,Spring Gun Clip,87,100,55,2
+72,Red XIII,Limited Moon,93,114,31,2
+73,Yuffie,4-point Shuriken,23,100,6,600
+74,Yuffie,Boomerang,30,101,7,1400
+75,Yuffie,Pinwheel,37,104,9,2600
+76,Yuffie,Razor Ring,49,105,12,6000
+77,Yuffie,Hawkeye,61,107,14,12000
+78,Yuffie,Crystal Cross,74,110,18,18000
+79,Yuffie,Wind Slash,30,103,7,2000
+80,Yuffie,Twin Viper,36,108,8,3200
+81,Yuffie,Spiral Shuriken,68,110,18,14000
+82,Yuffie,Superball,68,120,10,3000
+83,Yuffie,Magic Shuriken,64,113,0,6000
+84,Yuffie,Rising Sun,68,108,16,2
+85,Yuffie,Oritsuru,90,116,38,2
+86,Yuffie,Conformer,96,112,42,2
+87,Cait Sith,Yellow M-phone,36,100,8,500
+88,Cait Sith,Green M-phone,41,100,9,2400
+89,Cait Sith,Blue M-phone,48,100,10,5500
+90,Cait Sith,Red M-phone,60,100,15,11000
+91,Cait Sith,Crystal M-phone,74,100,20,18000
+92,Cait Sith,White M-phone,35,102,8,2200
+93,Cait Sith,Black M-phone,31,104,10,2800
+94,Cait Sith,Silver M-phone,28,106,14,3300
+95,Cait Sith,Trumpet Shell,68,118,2,3000
+96,Cait Sith,Gold M-phone,58,103,28,15000
+97,Cait Sith,Battle Trumpet,95,95,0,2
+98,Cait Sith,Starlight Phone,88,102,31,2
+99,Cait Sith,HP Shout,95,110,44,3300
+100,Vincent,Quicksilver,36,110,10,1000
+101,Vincent,Shotgun,48,112,12,3100
+102,Vincent,Shortbarrel,51,118,14,6400
+103,Vincent,Lariat,64,120,16,12000
+104,Vincent,Winchester,73,120,18,18000
+105,Vincent,Peacemaker,38,118,8,3300
+106,Vincent,Buntline,48,124,18,6800
+107,Vincent,Long Barrel R,66,255,14,13000
+108,Vincent,Silver Rifle,62,120,0,3000
+109,Vincent,Sniper CR,42,255,7,3300
+110,Vincent,Supershot ST,97,120,52,2
+111,Vincent,Outsider,80,120,48,2
+112,Vincent,Death Penalty,99,115,34,2
+113,Cid,Spear,44,97,8,1200
+114,Cid,Slash Lance,56,98,10,6500
+115,Cid,Trident,60,105,12,7500
+116,Cid,Mast Ax,64,99,15,13000
+117,Cid,Partisan,78,100,17,19000
+118,Cid,Viper Halberd,58,102,13,7000
+119,Cid,Javelin,62,104,12,7500
+120,Cid,Grow Lance,78,102,31,16000
+121,Cid,Mop,68,118,3,3200
+122,Cid,Dragoon Lance,66,100,7,6200
+123,Cid,Scimitar,86,102,20,2
+124,Cid,Flayer,100,100,20,15000
+125,Cid,Spirit Lance,92,112,43,2
+126,Cid,Venus Gospel,97,103,42,2

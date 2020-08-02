@@ -1,0 +1,33 @@
+id,name,def,def%,mdef,mdef%,cost
+0,Bronze Bangle,8,0,0,0,100
+1,Iron Bangle,10,0,2,0,160
+2,Titan Bangle,14,2,4,0,280
+3,Mythril Armlet,18,3,8,0,350
+4,Carbon Bangle,27,3,14,0,800
+5,Silver Armlet,34,4,22,0,1300
+6,Gold Armlet,46,4,28,0,2000
+7,Diamond Bangle,57,6,37,0,3200
+8,Crystal Bangle,70,8,45,1,4800
+9,Platinum Bangle,20,0,12,0,1800
+10,Rune Armlet,43,5,24,0,3700
+11,Edincoat,50,0,33,0,8000
+12,Wizard Bracelet,6,3,85,3,12000
+13,Adaman Bangle,93,0,23,0,2
+14,Gigas Armlet,59,0,0,0,2
+15,Imperial Guard,82,0,74,0,2
+16,Aegis Armlet,55,15,86,50,2
+17,Fourth Bracelet,74,3,100,3,2
+18,Warrior Bangle,96,0,21,0,1000
+19,Shinra Beta,30,0,0,0,950
+20,Shinra Alpha,77,0,34,0,2
+21,Four Slots,12,0,10,0,1300
+22,Fire Armlet,72,8,52,3,2
+23,Aurora Armlet,76,8,54,3,4800
+24,Bolt Armlet,74,8,55,3,2
+25,Dragon Armlet,58,3,47,2,2
+26,Minerva Band,60,8,57,0,2
+27,Escort Guard,62,5,55,0,2
+28,Mystile,65,50,72,60,2
+29,Ziedrich,100,15,98,18,2
+30,Precious Watch,0,0,0,0,2
+31,Chocobracelet,35,10,38,10,2
