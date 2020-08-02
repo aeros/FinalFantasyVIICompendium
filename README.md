@@ -1,4 +1,4 @@
-# Final Fantasy Compendium
+# Final Fantasy VII Compendium
 
 Seminole State College group project for a Final Fantasy VII Compendium. This includes:  
 
