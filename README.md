@@ -20,6 +20,6 @@ Seminole State College group project for a Final Fantasy VII Compendium. This in
 4) Run the android app in Android Studio using a device with API level 18 or higher. The app was primarily tested against the Pixel 3a (API 30), but should work on other devices as well.  
 
 # Authors
-Kyle Stanley ([@aeros](https://github.com/aeros)) - RESTful API, MySQL database, and JSON request  
+Kyle Stanley ([@aeros](https://github.com/aeros)) - RESTful API, data (ETL -> MySQL DB), and JSON request  
 Colton Haynes ([@ALPAL1009](https://github.com/Ukazair)) - UX/UI and user input handling  
 Gregory "Allen" Griffin ([@Ukazair](https://github.com/ALPAL1009)) - UX/UI and core application logic  
