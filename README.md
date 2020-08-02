@@ -42,7 +42,7 @@ CREATE TABLE `armors` (
 Credentials may need to be adjusted in `rest_service/database.py` (within `MySQLManager.__init__`) if not using the root user without a password (not recommended for production environments or publically exposed databases).
 
 3) Import `*.csv` files in `data/` to the MySQL database. This can be done via the "Table Data Import Wizard" in MySQL Workbench (recommended), or from the CLI using `LOAD DATA LOCAL INFILE`.  
-4) Run the android app in Android Studio using a device with API level 18 or higher. The app was primarily tested against the Pixel 3a (API 30), but should work on other devices as well.  
+4) Open `android_app/FinalFantasyCompendium` in Android Studio, and run the app using a emulated device with API level of 18 or higher. The app was primarily tested against the Pixel 3a (API 30), but works on other devices as well.
 
 # Authors
 Kyle Stanley ([@aeros](https://github.com/aeros)) - RESTful API, data (ETL -> MySQL DB), and JSON request  
