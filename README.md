@@ -19,23 +19,23 @@ Seminole State College group project for a Final Fantasy VII Compendium. This in
 
 ```sql
 CREATE TABLE `weapons` (
-  `id` int(11) NOT NULL,
+  `id` INT NOT NULL,
   `character` VARCHAR(20),
   `name` VARCHAR(50),
-  `attack` int(11) NOT NULL,
-  `accuracy` int(11) NOT NULL,
-  `magic` int(11) NOT NULL,
-  `cost` int(11) NOT NULL
+  `attack` INT NOT NULL,
+  `accuracy` INT NOT NULL,
+  `magic` INT NOT NULL,
+  `cost` INT NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 CREATE TABLE `armors` (
-  `id` int(11) NOT NULL,
+  `id` INT NOT NULL,
   `name` VARCHAR(50),
-  `def` int(11) NOT NULL,
-  `def%` int(11) NOT NULL,
-  `mdef` int(11) NOT NULL,
-  `mdef%` int(11) NOT NULL,
-  `cost` int(11) NOT NULL
+  `def` INT NOT NULL,
+  `def%` INT NOT NULL,
+  `mdef` INT NOT NULL,
+  `mdef%` INT NOT NULL,
+  `cost` INT NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
 
