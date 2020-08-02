@@ -15,7 +15,32 @@ Seminole State College group project for a Final Fantasy VII Compendium. This in
 # Setup
 
 1) Start the REST service using `python start_service.py` within the project root directory.  
-2) Start the MySQL database, adding the table schemas mentioned in the comments of `rest_service/database.py`. Also, credentials may need to be updated to `MySQLManger.__init__` if not using the root user without a password (not recommended for production environments or publically exposed databases).  
+2) Start the MySQL database, and add the following table schemas: 
+
+```sql
+CREATE TABLE `weapons` (
+  `id` int(11) NOT NULL,
+  `character` VARCHAR(20),
+  `name` VARCHAR(50),
+  `attack` int(11) NOT NULL,
+  `accuracy` int(11) NOT NULL,
+  `magic` int(11) NOT NULL,
+  `cost` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `armors` (
+  `id` int(11) NOT NULL,
+  `name` VARCHAR(50),
+  `def` int(11) NOT NULL,
+  `def%` int(11) NOT NULL,
+  `mdef` int(11) NOT NULL,
+  `mdef%` int(11) NOT NULL,
+  `cost` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+```
+
+Credentials may need to be adjusted in `rest_service/database.py` (within `MySQLManager.__init__`) if not using the root user without a password (not recommended for production environments or publically exposed databases).
+
 3) Import `*.csv` files in `data/` to the MySQL database. This can be done via the "Table Data Import Wizard" in MySQL Workbench (recommended), or from the CLI using `LOAD DATA LOCAL INFILE`.  
 4) Run the android app in Android Studio using a device with API level 18 or higher. The app was primarily tested against the Pixel 3a (API 30), but should work on other devices as well.  
 
