@@ -102,8 +102,6 @@ public class SearchActivity extends AppCompatActivity {
                     }
                 }
 
-                Log.d("btnSearch.onClick", "attr_filters[0] = " + attr_filters[0]);
-
                 // Read value for each attribute, default to 0 if null or invalid
                 int attr1 = parseToInt(hint1.getText().toString(), 0);
                 int attr2 = parseToInt(hint2.getText().toString(), 0);
@@ -162,6 +160,9 @@ public class SearchActivity extends AppCompatActivity {
                                 intent.putExtra("CATEGORY", category);
                                 Log.d(tag, "Starting results activity");
                                 startActivity(intent);
+                            }
+                            else {
+                                Toast.makeText(getApplicationContext(), "No results found", Toast.LENGTH_SHORT).show();
                             }
                         } catch (JSONException e) {
                             Log.e(tag, e.getMessage());

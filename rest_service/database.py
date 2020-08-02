@@ -106,7 +106,8 @@ class MySQLManager:
             cursor.execute("SET SESSION group_concat_max_len = 1000000;")
             cursor.execute(sql)
             res = cursor.fetchone()
-            if res:
+            print(res)
+            if res[0]:
                 return True, res[0]
             else:
-                return False, "no results found for query"
+                return True, '{}' # return empty JSON object to represent no results
