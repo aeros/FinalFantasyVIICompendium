@@ -21,8 +21,8 @@ Seminole State College group project for a Final Fantasy VII Compendium. This in
 
 # Authors
 Kyle Stanley ([@aeros](https://github.com/aeros)) - RESTful API, data (ETL -> MySQL DB), and JSON request  
-Colton Haynes ([@ALPAL1009](https://github.com/Ukazair)) - UX/UI and user input handling  
-Gregory "Allen" Griffin ([@Ukazair](https://github.com/ALPAL1009)) - UX/UI and core application logic  
+Colton Haynes ([@Ukazair](https://github.com/ALPAL1009)) - UX/UI and user input handling  
+Gregory "Allen" Griffin ([@ALPAL1009](https://github.com/Ukazair)) - UX/UI and core application logic  
 
 # Note
 
