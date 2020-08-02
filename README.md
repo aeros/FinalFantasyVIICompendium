@@ -15,7 +15,7 @@ Seminole State College group project for a Final Fantasy VII Compendium. This in
 # Setup
 
 1) Start the REST service using `python start_service.py` within the project root directory.  
-2) Start the MySQL database, and add the following table schemas: 
+2) Start the MySQL instance, create a new database named `ff7_compendium`, and add the following table schemas:  
 
 ```sql
 CREATE TABLE `weapons` (
